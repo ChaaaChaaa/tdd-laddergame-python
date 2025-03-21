@@ -5,7 +5,7 @@
 ## 프로젝트 개요
 
 사다리 타기 게임을 TDD 방식으로 구현하며, 다음과 같은 단계로 진행했습니다:
-- 1단계: 사다리 생성 및 출력 기능 [ladder-ver1][(https://github.com/ChaaaChaaa/tdd-laddergame-python/tree/ladder-ver1)]
+- 1단계: 사다리 생성 및 출력 기능 [ladder-ver1](https://github.com/ChaaaChaaa/tdd-laddergame-python/tree/ladder-ver1)
 - 2단계: 사다리 실행 결과 출력 기능 추가 [ladder-ver2](https://github.com/ChaaaChaaa/tdd-lotto-python/tree/lotto-ver2)
 
 ## 테스트 전략 및 구현
