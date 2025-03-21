@@ -1,10 +1,10 @@
-# 로또 게임 TDD 구현 프로젝트
+# 사다리 타기 TDD 구현 프로젝트
 
 이 프로젝트는 next-step의 TDD, 클린 코드 with Java를 Python으로 바꿔 로또 게임을 구현한 Python 프로젝트입니다. 클린 코드 원칙을 준수하며 단계별로 기능을 확장했습니다.
 
 ## 프로젝트 개요
 
-로또 게임을 TDD 방식으로 구현하며, 다음과 같은 단계로 진행했습니다:
+사다리 타기 게임을 TDD 방식으로 구현하며, 다음과 같은 단계로 진행했습니다:
 - 1단계: 사다리 생성 및 출력 기능 [ladder-ver1][(https://github.com/ChaaaChaaa/tdd-laddergame-python/tree/ladder-ver1)]
 - 2단계: 사다리 실행 결과 출력 기능 추가 [ladder-ver2](https://github.com/ChaaaChaaa/tdd-lotto-python/tree/lotto-ver2)
 
