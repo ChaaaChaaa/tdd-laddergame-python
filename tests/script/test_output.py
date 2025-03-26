@@ -13,7 +13,7 @@ class TestOutputFunction(unittest.TestCase):
     @patch('sys.stdout',new_callable=StringIO)
     def test_print_result_text(self,mock_stdout):
         print_result_text()
-        self.assertEqual(mock_stdout.getvalue(),"실행결과\n")
+        self.assertEqual(mock_stdout.getvalue(),"실행결과")
 
     @patch('sys.stdout',new_callable=StringIO)
     def test_print_ladder_participate_people(self,mock_stdout):
